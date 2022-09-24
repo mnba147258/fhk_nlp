@@ -26,7 +26,7 @@ NLP packages used in academics
 Features
 --------
 
-* TODO
+A natural language processing toolkit for social problems
 
 Credits
 -------
